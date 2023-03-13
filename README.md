@@ -13,3 +13,5 @@ To fully run the project:
 [data.zip](https://github.com/cyberkatrina/Tank-Battle-Game/files/10953016/data.zip)
 
 Pressing the spacebar will fire the tank, pressing the UP and DOWN keys will adjust the angle of the nozzle on the red tank. Pressing the LEFT and RIGHT keys will allow for the red tank to move left and right in the scene. Pressing the 'W' and 'S' keys will adjust the angle of the nozzle on the blue tank. Pressing the 'A' and 'D' keys will allow for the blue tank to move left and right in the scene. The red tank always fires first and then the players alternated until one of them hits the other three times.
+
+Created by: Katsiaryna Aliashkevich, Rami Awada, and Ethan Rose
