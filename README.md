@@ -16,4 +16,4 @@ Pressing the spacebar will fire the tank, pressing the UP and DOWN keys will adj
 
 Created by: Katsiaryna Aliashkevich, Rami Awada, and Ethan Rose
 
-<img width="900" alt="Screenshot 2023-03-12 at 10 19 29 PM" src="https://user-images.githubusercontent.com/113384816/224600544-d1715f87-d7d0-4d4a-ba7c-9d0a8f33e672.png">
+<img width="743" alt="Screenshot 2023-03-12 at 10 21 40 PM" src="https://user-images.githubusercontent.com/113384816/224600835-72563beb-48a4-415d-8f1d-397faa79885e.png">
