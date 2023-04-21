@@ -14,6 +14,6 @@ To fully run the project:
 
 Pressing the spacebar will fire the tank, pressing the UP and DOWN keys will adjust the angle of the nozzle on the red tank. Pressing the LEFT and RIGHT keys will allow for the red tank to move left and right in the scene. Pressing the 'W' and 'S' keys will adjust the angle of the nozzle on the blue tank. Pressing the 'A' and 'D' keys will allow for the blue tank to move left and right in the scene. The red tank always fires first and then the players alternated until one of them hits the other three times.
 
-Created by: Katsiaryna Aliashkevich, Rami Awada, and Ethan Rose
-
 <img width="743" alt="Screenshot 2023-03-12 at 10 21 40 PM" src="https://user-images.githubusercontent.com/113384816/224600835-72563beb-48a4-415d-8f1d-397faa79885e.png">
+
+Created by: Katsiaryna Aliashkevich, Rami Awada, and Ethan Rose
